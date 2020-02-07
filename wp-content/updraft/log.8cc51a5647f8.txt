@@ -1,0 +1,220 @@
+0000.003 (0) Opened log file at time: Tue, 04 Feb 2020 11:04:20 +0000 on http://localhost/mycollege.test
+0000.062 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.2.5 PHP: 7.1.32 (apache2handler, Windows NT DESKTOP-8HG9DTO 10.0 build 17763 (Windows 10) AMD64) MySQL: 10.4.8-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.0.2s PHP/7.1.32 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 37.6M | 6M) multisite: N openssl: OpenSSL 1.0.2r  26 Feb 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.105 (0) Free space on disk containing Updraft's temporary directory: 386577.9 MB
+0000.196 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.288 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.494 (0) Set semaphore last lock (fd) time to 2020-02-04 11:04:20
+0000.576 (0) Semaphore lock (fd) complete
+0000.723 (0) Backup run: resumption=0, nonce=8cc51a5647f8, file_nonce=8cc51a5647f8 begun at=1580814260 (0s ago), job type=backup
+0000.808 (0) Scheduling a resumption (1) after 300 seconds (1580814560) in case this run gets aborted
+0000.920 (0) Checking if we have a zip executable available
+0001.047 (0) Creation of backups of directories: beginning
+0001.119 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0005.365 (0) Total entities for the zip file: 253 directories, 1674 files (0 skipped as non-modified), 30.6 MB
+0005.429 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.755 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 100 files added (on-disk size: 49.3 KB)
+0005.905 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 200 files added (on-disk size: 49.3 KB)
+0006.064 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 300 files added (on-disk size: 49.3 KB)
+0006.174 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 400 files added (on-disk size: 49.3 KB)
+0006.286 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 500 files added (on-disk size: 49.3 KB)
+0006.319 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.4 MB, 1674 files batched, 501 (502) added so far); re-opening (prior size: 49.3 KB)
+0011.492 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 600 files added (on-disk size: 3525.9 KB)
+0011.748 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 700 files added (on-disk size: 3525.9 KB)
+0011.895 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 800 files added (on-disk size: 3525.9 KB)
+0012.032 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 900 files added (on-disk size: 3525.9 KB)
+0012.177 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 1000 files added (on-disk size: 3525.9 KB)
+0012.220 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.9 MB, 1674 files batched, 501 (1003) added so far); re-opening (prior size: 3525.9 KB)
+0025.668 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 1100 files added (on-disk size: 7990.2 KB)
+0025.919 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 1200 files added (on-disk size: 7990.2 KB)
+0026.129 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 1300 files added (on-disk size: 7990.2 KB)
+0026.357 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 1400 files added (on-disk size: 7990.2 KB)
+0026.527 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 1500 files added (on-disk size: 7990.2 KB)
+0026.748 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 MB, 1674 files batched, 501 (1504) added so far); re-opening (prior size: 7990.2 KB)
+0030.733 (0) Zip: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip.tmp: 1600 files added (on-disk size: 8912.7 KB)
+0033.457 (0) Created plugins zip (0) - 9100.2 KB in 32.3 s (281.7 KB/s) (sha1: e495275d89382a37c5bc1c4f5e6123b7f77a7a3e, sha256: 94ee0f3103822a1a81990f39a59953f8fdafcc3565600cd80d33025b62b3788f)
+0033.531 (0) Beginning creation of dump of themes (split every: 400 MB)
+0034.326 (0) Total entities for the zip file: 8 directories, 55 files (0 skipped as non-modified), 2.4 MB
+0035.827 (0) Created themes zip (0) - 2170.4 KB in 2.2 s (966.6 KB/s) (sha1: 83f25ea572afc6fa292d7c54148c1600f7c02092, sha256: 2550249e3e8c7aa4bce47a8c8b443ea151a905685d705646f2ff7136dd33b5e2)
+0035.999 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0036.123 (0) Looking for candidates to backup in: C:\New\htdocs\mycollege.test/wp-content/uploads
+0036.192 (0) finding files: 2020: adding to list (1)
+0036.247 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0036.733 (0) Total entities for the zip file: 3 directories, 38 files (0 skipped as non-modified), 15.5 MB
+0041.997 (0) Created uploads zip (0) - 15881 KB in 5.7 s (2800.9 KB/s) (sha1: 2019bc5fac7b225e7a7fcc99b0b860104d2e122d, sha256: 6873845b99314c30a90941a3ce4a70220940c4dd2828e69f3762ddc0edcd56e7)
+0042.189 (0) Beginning backup of other directories found in the content directory (index: 0)
+0042.261 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0042.303 (0) Looking for candidates to backup in: C:\New\htdocs\mycollege.test/wp-content
+0042.336 (0) finding files: index.php: adding to list (1)
+0042.377 (0) finding files: mu-plugins: adding to list (2)
+0042.449 (0) finding files: plugins: skipping: this is the plugins directory
+0042.492 (0) finding files: temp-write-test-5e33119ac91748-90463916: adding to list (3)
+0042.559 (0) finding files: themes: skipping: this is the themes directory
+0042.608 (0) finding files: updraft: skipping: this is the updraft directory
+0042.674 (0) finding files: upgrade: skipping: excluded by options
+0042.726 (0) finding files: uploads: skipping: this is the uploads directory
+0043.079 (0) Total entities for the zip file: 1 directories, 3 files (0 skipped as non-modified), 0 MB
+0043.423 (0) Created others zip (0) - 0.9 KB in 0.6 s (1.6 KB/s) (sha1: dd547723e69467a22cc8cf30d9ec6db91de571c0, sha256: 0129c9f63039c65237cb1cda70163ea45ef452289ed4de2f63912df73896e358)
+0043.702 (0) Saving backup status to database (elements: 8)
+0043.809 (0) Beginning creation of database dump (WordPress DB)
+0044.116 (0) Table wp_options: Total expected rows (approximate): 204
+0044.202 (0) Table wp_options: Total rows added: 204 in 0.07 seconds
+0044.324 (0) Table wp_options: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_options.table.gz - 164.1 KB)
+0044.520 (0) Table wp_users: Total expected rows (approximate): 0
+0044.621 (0) Table wp_users: Total rows added: 1 in 0.04 seconds
+0044.709 (0) Table wp_users: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_users.table.gz - 0.5 KB)
+0044.832 (0) Table wp_usermeta: Total expected rows (approximate): 23
+0044.896 (0) Table wp_usermeta: Total rows added: 27 in 0.02 seconds
+0044.968 (0) Table wp_usermeta: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_usermeta.table.gz - 1.4 KB)
+0045.084 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0045.197 (0) Table wp_commentmeta: Total rows added: 0 in 0.03 seconds
+0045.259 (0) Table wp_commentmeta: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0045.369 (0) Table wp_comments: Total expected rows (approximate): 0
+0045.495 (0) Table wp_comments: Total rows added: 1 in 0.09 seconds
+0045.544 (0) Table wp_comments: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_comments.table.gz - 0.7 KB)
+0045.826 (0) Table wp_links: Total expected rows (approximate): 0
+0045.871 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0045.917 (0) Table wp_links: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_links.table.gz - 0.4 KB)
+0046.116 (0) Table wp_postmeta: Total expected rows (approximate): 275
+0046.248 (0) Table wp_postmeta: Total rows added: 297 in 0.08 seconds
+0046.374 (0) Table wp_postmeta: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_postmeta.table.gz - 4 KB)
+0046.566 (0) Table wp_posts: Total expected rows (approximate): 119
+0046.667 (0) Table wp_posts: Total rows added: 119 in 0.07 seconds
+0046.776 (0) Table wp_posts: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_posts.table.gz - 10.7 KB)
+0047.106 (0) Table wp_term_relationships: Total expected rows (approximate): 14
+0047.162 (0) Table wp_term_relationships: Total rows added: 15 in 0.02 seconds
+0047.233 (0) Table wp_term_relationships: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0047.453 (0) Table wp_term_taxonomy: Total expected rows (approximate): 6
+0047.616 (0) Table wp_term_taxonomy: Total rows added: 6 in 0.11 seconds
+0047.664 (0) Table wp_term_taxonomy: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0047.887 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0047.939 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0048.338 (0) Table wp_termmeta: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_termmeta.table.gz - 0.4 KB)
+0048.982 (0) Table wp_terms: Total expected rows (approximate): 5
+0049.055 (0) Table wp_terms: Total rows added: 6 in 0.02 seconds
+0049.127 (0) Table wp_terms: finishing file (backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_terms.table.gz - 0.5 KB)
+0049.312 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_options.table.gz (1/12): adding to final database dump
+0049.430 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_users.table.gz (2/12): adding to final database dump
+0049.489 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0049.550 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0049.612 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0049.698 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_links.table.gz (6/12): adding to final database dump
+0049.721 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0049.753 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0049.796 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0049.863 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0049.921 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0049.974 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0050.068 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db.gz: finished writing out complete database file (168 KB)
+0050.374 (0) Total database tables backed up: 12 (backup_2020-02-04-1104_My_University_8cc51a5647f8-db.gz, size: 185883, sha1: 73b054a27b78c788d58be4a8ec58484addb28ac4, sha256: 4c8b309238448a3236fd75a94527d974e2264d2575812640d5db78e875210b66)
+0050.564 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0050.622 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0050.695 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0050.829 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-others.zip: others: This file has not yet been successfully uploaded: will queue
+0050.874 (0) backup_2020-02-04-1104_My_University_8cc51a5647f8-db.gz: db: This file has not yet been successfully uploaded: will queue
+0050.926 (0) Saving backup history. Total backup size: 26.7 MB
+0051.024 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0051.167 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0051.218 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8559dcb6fac587749322b51957526cc4)
+0056.505 (0) Google Drive: quota usage: used=385.2 MB, total=15360 MB, available=14974.8 MB
+0056.613 (0) Google Drive: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip: Attempting to upload to Google Drive (into folder id: 1BKkUYB5HqKQl03zTOouymn-oKwxyp2BK)
+0060.538 (0) Googledrive chunked upload: 11.3 % uploaded (1048576)
+0064.816 (0) Googledrive chunked upload: 22.5 % uploaded (2097152)
+0068.874 (0) Googledrive chunked upload: 33.8 % uploaded (3145728)
+0073.034 (0) Googledrive chunked upload: 45 % uploaded (4194304)
+0076.113 (0) Googledrive chunked upload: 56.3 % uploaded (5242880)
+0080.627 (0) Googledrive chunked upload: 67.5 % uploaded (6291456)
+0083.647 (0) Googledrive chunked upload: 78.8 % uploaded (7340032)
+0089.339 (0) Googledrive chunked upload: 90 % uploaded (8388608)
+0095.263 (0) Googledrive chunked upload: 100 % uploaded (8388608)
+0095.387 (0) Google Drive: OK: Archive backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip uploaded in 38.7 seconds
+0095.415 (0) Recording as successfully uploaded: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip
+0095.488 (0) Deleting local file: backup_2020-02-04-1104_My_University_8cc51a5647f8-plugins.zip: OK
+0096.473 (0) Google Drive: quota usage: used=394.1 MB, total=15360 MB, available=14965.9 MB
+0096.574 (0) Google Drive: backup_2020-02-04-1104_My_University_8cc51a5647f8-themes.zip: Attempting to upload to Google Drive (into folder id: 1BKkUYB5HqKQl03zTOouymn-oKwxyp2BK)
+0101.366 (0) Googledrive chunked upload: 47.2 % uploaded (1048576)
+0104.414 (0) Googledrive chunked upload: 94.4 % uploaded (2097152)
+0106.548 (0) Googledrive chunked upload: 100 % uploaded (2097152)
+0106.844 (0) Google Drive: OK: Archive backup_2020-02-04-1104_My_University_8cc51a5647f8-themes.zip uploaded in 10.24 seconds
+0106.907 (0) Recording as successfully uploaded: backup_2020-02-04-1104_My_University_8cc51a5647f8-themes.zip
+0106.990 (0) Deleting local file: backup_2020-02-04-1104_My_University_8cc51a5647f8-themes.zip: OK
+0107.948 (0) Google Drive: quota usage: used=396.3 MB, total=15360 MB, available=14963.7 MB
+0107.975 (0) Google Drive: backup_2020-02-04-1104_My_University_8cc51a5647f8-uploads.zip: Attempting to upload to Google Drive (into folder id: 1BKkUYB5HqKQl03zTOouymn-oKwxyp2BK)
+0112.728 (0) Googledrive chunked upload: 6.4 % uploaded (1048576)
+0115.852 (0) Googledrive chunked upload: 12.9 % uploaded (2097152)
+0119.450 (0) Googledrive chunked upload: 19.3 % uploaded (3145728)
+0123.401 (0) Googledrive chunked upload: 25.8 % uploaded (4194304)
+0126.878 (0) Googledrive chunked upload: 32.2 % uploaded (5242880)
+0130.993 (0) Googledrive chunked upload: 38.7 % uploaded (6291456)
+0134.049 (0) Googledrive chunked upload: 45.1 % uploaded (7340032)
+0138.232 (0) Googledrive chunked upload: 51.6 % uploaded (8388608)
+0141.227 (0) Googledrive chunked upload: 58 % uploaded (9437184)
+0145.511 (0) Googledrive chunked upload: 64.5 % uploaded (10485760)
+0147.928 (0) Googledrive chunked upload: 70.9 % uploaded (11534336)
+0151.955 (0) Googledrive chunked upload: 77.4 % uploaded (12582912)
+0155.098 (0) Googledrive chunked upload: 83.8 % uploaded (13631488)
+0159.316 (0) Googledrive chunked upload: 90.3 % uploaded (14680064)
+0163.779 (0) Googledrive chunked upload: 96.7 % uploaded (15728640)
+0166.978 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0167.426 (0) Google Drive: OK: Archive backup_2020-02-04-1104_My_University_8cc51a5647f8-uploads.zip uploaded in 59.42 seconds
+0167.526 (0) Recording as successfully uploaded: backup_2020-02-04-1104_My_University_8cc51a5647f8-uploads.zip
+0168.020 (0) Deleting local file: backup_2020-02-04-1104_My_University_8cc51a5647f8-uploads.zip: OK
+0169.053 (0) Google Drive: quota usage: used=411.8 MB, total=15360 MB, available=14948.2 MB
+0169.109 (0) Google Drive: backup_2020-02-04-1104_My_University_8cc51a5647f8-others.zip: Attempting to upload to Google Drive (into folder id: 1BKkUYB5HqKQl03zTOouymn-oKwxyp2BK)
+0171.445 (0) Googledrive chunked upload: 100 % uploaded
+0171.562 (0) Google Drive: OK: Archive backup_2020-02-04-1104_My_University_8cc51a5647f8-others.zip uploaded in 2.43 seconds
+0171.593 (0) Recording as successfully uploaded: backup_2020-02-04-1104_My_University_8cc51a5647f8-others.zip
+0171.660 (0) Deleting local file: backup_2020-02-04-1104_My_University_8cc51a5647f8-others.zip: OK
+0172.564 (0) Google Drive: quota usage: used=411.8 MB, total=15360 MB, available=14948.2 MB
+0172.584 (0) Google Drive: backup_2020-02-04-1104_My_University_8cc51a5647f8-db.gz: Attempting to upload to Google Drive (into folder id: 1BKkUYB5HqKQl03zTOouymn-oKwxyp2BK)
+0175.728 (0) Googledrive chunked upload: 100 % uploaded
+0175.821 (0) Google Drive: OK: Archive backup_2020-02-04-1104_My_University_8cc51a5647f8-db.gz uploaded in 3.2 seconds
+0175.876 (0) Recording as successfully uploaded: backup_2020-02-04-1104_My_University_8cc51a5647f8-db.gz
+0176.005 (0) Deleting local file: backup_2020-02-04-1104_My_University_8cc51a5647f8-db.gz: OK
+0176.090 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0176.118 (0) Number of backup sets in history: 3; groups (db): 1
+0176.139 (0) Examining (for databases) backup set with group_id=0, nonce=8cc51a5647f8, datestamp=1580814260 (Feb 04 2020 11:04:20)
+0176.158 (0) This backup set is the backup set just made, so will not be deleted.
+0176.158 (0) Examining (for databases) backup set with group_id=0, nonce=1ea6fe751685, datestamp=1580467867 (Jan 31 2020 10:51:07)
+0176.158 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0176.180 (0) Examining (for databases) backup set with group_id=0, nonce=f7b5e8c7cfe9, datestamp=1580390744 (Jan 30 2020 13:25:44)
+0176.180 (0) 1580390744: db: this set includes a database (backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-db.gz); db count is now 2
+0176.180 (0) 1580390744: db: over retain limit (2); will delete this database
+0176.180 (0) Delete file: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-db.gz, service=googledrive
+0176.201 (0) Deleting local copy (backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-db.gz)
+0178.141 (0) Google Drive: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-db.gz: Deletion failed: file was not found
+0178.295 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0178.343 (0) Number of backup sets in history: 3; groups (files): 1
+0178.361 (0) Examining (for files) backup set with nonce=8cc51a5647f8, datestamp=1580814260 (Feb 04 2020 11:04:20)
+0178.361 (0) This backup set is the backup set just made, so will not be deleted.
+0178.395 (0) This backup set is the backup set just made, so will not be deleted.
+0178.397 (0) This backup set is the backup set just made, so will not be deleted.
+0178.399 (0) This backup set is the backup set just made, so will not be deleted.
+0178.401 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0178.433 (0) Examining (for files) backup set with nonce=1ea6fe751685, datestamp=1580467867 (Jan 31 2020 10:51:07)
+0178.434 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0178.436 (0) Examining (for files) backup set with nonce=f7b5e8c7cfe9, datestamp=1580390744 (Jan 30 2020 13:25:44)
+0178.436 (0) plugins: over retain limit (2); will delete this file entity
+0178.436 (0) themes: over retain limit (2); will delete this file entity
+0178.437 (0) uploads: over retain limit (2); will delete this file entity
+0178.437 (0) others: over retain limit (2); will delete this file entity
+0178.437 (0) Delete file: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-plugins.zip, service=googledrive
+0178.466 (0) Deleting local copy (backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-plugins.zip)
+0178.493 (0) Delete file: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-themes.zip, service=googledrive
+0178.520 (0) Deleting local copy (backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-themes.zip)
+0178.646 (0) Delete file: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-uploads.zip, service=googledrive
+0178.699 (0) Deleting local copy (backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-uploads.zip)
+0178.741 (0) Delete file: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-others.zip, service=googledrive
+0178.765 (0) Deleting local copy (backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-others.zip)
+0179.730 (0) Google Drive: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-plugins.zip: Deletion failed: file was not found
+0179.787 (0) Google Drive: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-themes.zip: Deletion failed: file was not found
+0179.805 (0) Google Drive: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-uploads.zip: Deletion failed: file was not found
+0179.828 (0) Google Drive: backup_2020-01-30-1325_My_University_f7b5e8c7cfe9-others.zip: Deletion failed: file was not found
+0179.888 (0) This backup set is now empty; will remove from history
+0179.930 (0) Deleting log file (log.f7b5e8c7cfe9.txt)
+0179.952 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0180.053 (0) Resume backup (8cc51a5647f8, 0): finish run
+0180.306 (0) Decremented the semaphore (fd) by 1
+0180.380 (0) Semaphore (fd) unlocked
+0180.425 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0180.587 (0) No email will/can be sent - the user has not configured an email address.
+0180.631 (0) The backup apparently succeeded and is now complete
